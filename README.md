@@ -22,3 +22,7 @@
    <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GitLab%20-%23F7DF1E.svg?&style=for-the-badge&color=FC6D26" />&nbsp;&nbsp;
 </p> 
+
+### Github Activity ✔:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonsous&langs_count=4)](https://github.com/wilsonsous/github-readme-stats)
