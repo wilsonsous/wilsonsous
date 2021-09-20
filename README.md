@@ -18,15 +18,6 @@
    <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
    <br />
-   <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/RabbitMQ%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Apache Kafka%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/FeathersJs%20-%23F7DF1E.svg?&style=for-the-badge&color=D513A5" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Strapi%20-%23F7DF1E.svg?&style=for-the-badge&color=1C1B7E" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/GraphQL%20-%23F7DF1E.svg?&style=for-the-badge&color=E535AB" />&nbsp;&nbsp;
-   <br />
    <img src="https://img.shields.io/badge/Laravel%20-%23F7DF1E.svg?&style=for-the-badge&color=F24F3B" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Lumen%20-%23F7DF1E.svg?&style=for-the-badge&color=F24F3B" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Blade%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
