@@ -3,6 +3,7 @@
 
 ---
 Check out my portfolio! : https://github.com/wilsonsous/Portfolio
+
 Reach me at : souswilson@gmail.com
 --- 
 
