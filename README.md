@@ -1,7 +1,9 @@
 ### Hi there 👋 
 ### The name is Wilson!
 
-
+Check out my portfolio! : https://github.com/wilsonsous/Portfolio
+Reach me at : souswilson@gmail.com
+  
 - 🔭 I’m currently working on my Full-Stack Web Developer course
 - 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on learning new languages
