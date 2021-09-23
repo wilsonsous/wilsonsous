@@ -8,6 +8,11 @@ Reach me at : souswilson@gmail.com
 
 --- 
 
+---
+About Me:
+---
+Beginning as a self taught web developer before joining a bootcamp, I was fascinated with every idea of coding in the world of Tech. Practicing my own coding projects using basic HTML, CSS, and Javascript made me thrilled to learn more about discovering new syntaxes and concepts. The foundation of constantly learning new things and experiencing challenges through the use of tech has lead me to where I am today. The mental stimulation is what drives me to keep coding along and to express my creativity through something I can constantly learn from.
+
 - 🔭 I’m currently working on my Full-Stack Web Developer course
 - 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on learning new languages
