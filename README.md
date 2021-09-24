@@ -2,7 +2,7 @@
 ### The name is Wilson!
 
 ---
-Check out my portfolio! : https://github.com/wilsonsous/Portfolio
+Check out my portfolio! : https://wilsonsous.github.io/Portfolio2/
 
 Reach me at : souswilson@gmail.com
 
